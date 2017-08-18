@@ -19,7 +19,7 @@ Having solution on these pointers would prove to be of great assistance. Plus, <
 
 <strong>BTAC (Blended Test Automation Concepts)</strong> assists in solving these problems for different automation tools and technologies.
 
-Supported Tools as of now:
+<b><i>Supported Tools as of now:</b></i>
 <ul>
  	<li>Web Automation Framework + Helper Libraries
 <ul>
@@ -33,7 +33,7 @@ Supported Tools as of now:
 </li>
  	<li>API Automation Framework + Helper Libraries</li>
 </ul>
-BTAC provides custom frameworks and libraries which ease up a lot of activities involved from starting a automation project TO coding TO reporting. Following is a glimpse of such areas for which libraries are available:
+<b><i>BTAC provides custom frameworks and libraries which ease up a lot of activities involved from starting a automation project TO coding TO reporting. Following is a glimpse of such areas for which libraries are available:</b></i>
 <ul>
  	<li>Web element handlers</li>
  	<li>Mobile Element Handlers</li>
@@ -52,7 +52,8 @@ BTAC provides custom frameworks and libraries which ease up a lot of activities 
  	<li>Random Data Generator</li>
  	<li>Email Notification</li>
 </ul>
-<ul> Other Add-on’s:
+<b><i>Other Add-on’s:</b></i>
+<ul>
 	<li>
 	Link Checker (Custom add-on which checks for broken links, images, js and other resources + Detailed automated report which can be assessed for broken links, empty links, missing link text, missing image alternate text, and other various parameters)
 	</li>
