@@ -52,6 +52,18 @@ BTAC provides custom frameworks and libraries which ease up a lot of activities 
  	<li>Random Data Generator</li>
  	<li>Email Notification</li>
 </ul>
+<ul> Other Add-on’s:
+	<li>
+	Link Checker (Custom add-on which checks for broken links, images, js and other resources + Detailed automated report which can be assessed for broken links, empty links, missing link text, missing image alternate text, and other various parameters)
+	</li>
+	<li>
+	Send Bulk Mails for Testing to various email-id’s along with attachments (For testing apps like email aggregator where you have to send bulk mails to different email-id’s and check if aggregator is able to aggregate all emails together or not)
+	</li>
+	<li>
+	Social Media Review Extractor (Currently limited to Twitter. This add-on extracts good/bad Tweet reviews from customers for specified apps + Creates a custom automated report with appropriate information)
+	</li>
+</ul>
+
 <strong>Request a Demo</strong>
 
 Contact: Yagnesh Shah - yash.shah.g@gmail.com
